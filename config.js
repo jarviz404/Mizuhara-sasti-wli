@@ -14,9 +14,9 @@ global.APIKeys = {
 // Other
 global.owner = ['']
 global.packname = 'Mizuhara'
-global.prefix= ['=']
+global.prefix= ['!']
 global.author = ''
-global.sessionName = 'arus'
+global.sessionName = 'test'
 global.mess = {
     success: '*Here you go...*',
     admin: '*Oops!! sorry dude this is only for admins*',
